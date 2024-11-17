@@ -120,20 +120,6 @@ Private Routes: The app's routes for managing cars are protected using PrivateRo
 📸 Image Upload
 Image Upload: Users can upload up to 10 images per car using the frontend form.
 Cloudinary Integration: The images are uploaded to Cloudinary, and the image URLs are saved in the MongoDB database.
-📄 API Documentation
-The backend includes Swagger documentation for all API endpoints. You can access the API documentation by visiting:
-
-http://localhost:5000/api-docs
-🖼 Screenshots
-
-1. Login Page:
-   Login Page
-
-2. Dashboard (Car List):
-   Car List
-
-3. Add New Car:
-   Add New Car
 
 🧪 Testing
 Manual Testing
@@ -173,5 +159,5 @@ Render for deployment.
 This project is licensed under the MIT License.
 
 👨‍💻 Author
-Your Name – @NikhilSharma-007
+Nikhil Sharma – @NikhilSharma-007
 Feel free to contribute or reach out for any questions!
