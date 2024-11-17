@@ -173,5 +173,5 @@ Render for deployment.
 This project is licensed under the MIT License.
 
 👨‍💻 Author
-Your Name – @NikhilSharma-007
+Nikhil Sharma – @NikhilSharma-007
 Feel free to contribute or reach out for any questions!
